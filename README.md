@@ -18,4 +18,6 @@ Output:
 
 Gives the library manager menu and prompts for user input. 
 
-https://www.youtube.com/watch?v=W36O__-uR1U
+Video walkthrough
+
+https://www.youtube.com/watch?v=yRRMPAGFCZ4
